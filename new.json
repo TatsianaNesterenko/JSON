@@ -1,2 +1,12 @@
-1
+{
+	"firstName":"Tatsiana",
+	"lastName":"Nesterenko",
+	"age":"32",
+	"pets":{
+		"what":"dog",
+		"petName":"Best",
+		"numberPet":"1"
+	},
+	"desiredSalary":"1000"
+}
 
