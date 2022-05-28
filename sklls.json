@@ -1,0 +1,31 @@
+{
+	"WillBeExplored":
+	{
+		"1":"Basic theory",
+		"2":"What is a client-server architecture",
+		"3":"HTTP Methods of requests to the server",
+		"4":"HTTP server response codes",
+		"5":"Structures of HTTP requests and responses",
+		"6":"What is JSON, XML",
+		"7":"API testing via Postman (JS, API autotests)",
+		"8":"Removing and reading logs from an external server",
+		"9":"Sniffing http web traffic via Charles and Fiddler",
+		"10":"Dev Tools of web browsers (Google Chrome, FireFox)",
+		"11":"VPN",
+		"12":"Mobile testing",
+		"13":"Feature iOS, Android, guidelines",
+		"14":"Building iOS applications on XCode",
+		"15":"Building Android applications on Android Studio",
+		"16":"ADB (android device management)",
+		"17":"Setting up proxy and vpn on iOS and Android",
+		"18":"Interception of mobile traffic via Charles and Fiddler",
+		"19":"Command line (terminal) Linux",
+		"20":"Basics of bash scripting, automation of routine tasks on the server",
+		"21":"Access to remote servers",
+		"22":"SQL basics",
+		"23":" Postgres database",
+		"24":"Non-relational database Redis",
+		"25":"Load testing in Jmeter",
+		"26":"Scrum development methodology"
+	},
+}
